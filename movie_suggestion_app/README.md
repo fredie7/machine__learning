@@ -1,4 +1,4 @@
-## A movie suggestion app implemented using Machine Learning
+## A Movie Suggestion App Implemented Using Cosine Similarity.
 
 
 #### This made use of a collection of data, spanning various column features
