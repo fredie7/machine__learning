@@ -10,7 +10,7 @@
 #### This was later combined before converting the text data into feature vectors to ease movie data pattern recognition using the TfidfVectorizer module.
 
 
-#### The similarity scores had to be deciphered using cosine similarity 
+#### The similarity scores had to be deciphered using cosine similarity.
 
 
 #### NOTE that Cosine similarity measures the cosine of the angle btw 2 vectors projected in multi-dimensional space and tends to be more similar with small angle measures between 2 contextual angles
