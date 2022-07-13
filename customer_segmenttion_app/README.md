@@ -1,4 +1,4 @@
-## This model determines customer segmentation
+## This Model Determines Customers' Segmentation.
 
 
 #### This made use of the Kmeans Clustering algorithm whilst factoring in a dataframe of targeted column base comprising of the gender, age, annual income 
