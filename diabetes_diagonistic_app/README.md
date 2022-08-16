@@ -7,7 +7,7 @@
 #### A tactful feature engineering was carried out to weigh the number of positive diabetic cases against the population.
 
 
-#### This was seconded wth ensuring that there were no null values before standardiation.
+#### This was seconded wth ensuring that there were no null values before standardization.
 
 
 #### The model was defined, fitted into the training dataset before prediction and evaluation.
