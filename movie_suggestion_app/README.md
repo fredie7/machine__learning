@@ -1,7 +1,7 @@
 ## A Movie Suggestion App Implemented Using Cosine Similarity.
 
 
-#### This made use of a collection of data, spanning various column features
+#### This made use of a collection of data spanning various column features
 
 
 #### A tactful feature engineering was carried out before relevant columns were selected such as genres,keywords,tagline,cast and the director columns.
