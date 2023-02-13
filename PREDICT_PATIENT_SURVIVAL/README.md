@@ -9,8 +9,8 @@ I did notice a sharp imbalance on the target feature, so had to do some over-sam
 
 I ran the now treated dataset through a few models amongst which the Decision Tree Classifier model came out tops after arriving at the following hyperparameters:
 
-*'criterion': 'entropy', 
-*'max_depth': 11, 
-*'max_features': None
+* criterion: entropy, 
+* max_depth: 11, 
+* max_features: None
 
 through a memorandum of hyperparameter tuning using cross valiation scores and GridSearchCV.
