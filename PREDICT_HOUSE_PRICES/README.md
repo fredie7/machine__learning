@@ -1,6 +1,6 @@
 ## A MACHINE LEARNING MODEL WHCH PREDICTS THE PRICES OF HOUSES...
 
-After thorough feature engineering and data viualization, where-in I identified features which directly surged or dwindled the prices of houses suc as 
+After thorough feature engineering and data viualization, where-in I identified features which directly surged or dwindled the prices of houses such as 
 * level appartment(s) completion
 * availability of air-conditioning, gest rooms, basement, hot water heater
 * houses cited at reserved areas and
