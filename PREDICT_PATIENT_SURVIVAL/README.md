@@ -8,6 +8,7 @@ Training dataset had to undergo some scaling in order to ensure numerical parity
 I did notice a sharp imbalance on the target feature, so had to do some over-sampling for beter model performance.
 
 I ran the now treated dataset through a few models amongst which the Decision Tree Classifier model came out tops after arriving at the following hyperparameters:
+
 *'criterion': 'entropy', 
 *'max_depth': 11, 
 *'max_features': None
