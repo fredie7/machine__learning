@@ -1,4 +1,4 @@
-## A MACHINE LEARNING MODEL WHCH PRDICTS THE PRICES OF HOUSES
+## A MACHINE LEARNING MODEL WHCH PREDICTS THE PRICES OF HOUSES...
 
 After thorough feature engineering and data viualization, where-in I identified features which directly surged or dwindled the prices of houses suc as 
 * level appartment(s) completion
