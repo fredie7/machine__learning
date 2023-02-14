@@ -8,7 +8,7 @@
 #### It becomes pertinent to observe that the sample dataframe has got no labels as this makes a case for an unspervised learning algorithimic approach.
 
 
-#### A range of values (X) had to be generated, seconded by a range of different clusters sequel to deciphering the SILHOUTTE score - a factor which validates
+#### A range of values (training_data) had to be generated, seconded by a range of different clusters sequel to deciphering the SILHOUTTE score - a factor which validates
 #### the consistency of data clusters.
 
 
@@ -20,7 +20,7 @@
 
 
 
-#### In order to assert  double assuance on the profound 5 cluster hypothesis, a code sample is lifted from https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html wherein the aformentioned range of (X) values are incorporated to further factor in the Silhouette theory which endorses the given K value as corresponding silhouette value approachs 1.
+#### In order to assert  double assuance on the profound 5 cluster hypothesis, a code sample is lifted from https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html wherein the aformentioned range of (training_data) values are incorporated to further factor in the Silhouette theory which endorses the given K value as corresponding silhouette value approachs 1.
 
 
 
